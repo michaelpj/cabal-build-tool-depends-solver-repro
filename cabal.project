@@ -1,0 +1,3 @@
+packages: A, B, C
+
+tests: true
